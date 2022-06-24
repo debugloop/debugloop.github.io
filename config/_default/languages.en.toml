@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Daniel Nägele"
   image = "avatar.jpg"
-  headline = "DevOps Engineer and Networker"
+  headline = "Code, DevOps, and Networks"
   bio = "Writing code, debugging networks, and generally disrespecting machines."
   links = [
     { email = "mailto:hello@danieln.de" },
