@@ -1,18 +1,19 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
 
 title = "danieln.de"
 # logo = "img/logo.jpg"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
+[languages.en.params]
+displayName = "EN"
 dateFormat = "2 January 2006"
+isoCode = "en"
+rtl = false
 
-[author]
+[params.author]
   name = "Daniel Nägele"
   image = "avatar.jpg"
   headline = "Code, DevOps, and Networks"
